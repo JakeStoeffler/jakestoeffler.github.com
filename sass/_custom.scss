@@ -1,0 +1,53 @@
+// Custom styles added by Jake
+
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+$color-accent: #FF5C00;
+$color-content-bg: rgba(255, 255, 255, .8);
+
+#header, #footer, .title {
+	text-transform: lowercase;
+}
+
+#header, #content, #footer {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#header {
+	border: 0;
+	h1 a {
+		color: $color-accent;
+		@include transition(color 0.3s);
+		&:hover{
+			color: $color-gray01;
+		}
+	}
+}
+
+#content {
+	background: $color-content-bg;
+	border: 1px solid $color-gray03;
+}
+
+#footer {
+	border: 0;
+}
+
+h1 {
+	color: $color-main;
+}
+
+.share {
+	border-bottom: 0;
+}
+
+::selection {
+   background: $color-accent; /* Safari */
+   color: #fff;
+}
+::-moz-selection {
+   background: $color-accent; /* Firefox */
+   color: #fff;
+}
