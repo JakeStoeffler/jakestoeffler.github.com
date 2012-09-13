@@ -4,7 +4,10 @@
 // Add styles here to make changes without digging in too much
 
 $color-accent: #FF5C00;
-$color-content-bg: rgba(255, 255, 255, .8);
+
+body {
+	background: #222 image-url('fabric_bg.jpg') fixed;
+}
 
 #header, #footer, .title {
 	text-transform: lowercase;
@@ -17,18 +20,21 @@ $color-content-bg: rgba(255, 255, 255, .8);
 
 #header {
 	border: 0;
+	a {
+		color: $color-gray02;
+	}
 	h1 a {
 		color: $color-accent;
 		@include transition(color 0.3s);
 		&:hover{
-			color: $color-gray01;
+			color: $color-gray02;
 		}
 	}
 }
 
 #content {
-	background: $color-content-bg;
-	border: 1px solid $color-gray03;
+	background: rgba(255,255,255,.85);
+	box-shadow: 0 0 15px #000;
 }
 
 #footer {
@@ -37,6 +43,10 @@ $color-content-bg: rgba(255, 255, 255, .8);
 
 h1 {
 	color: $color-main;
+}
+
+article {
+	border: 0;
 }
 
 .share {

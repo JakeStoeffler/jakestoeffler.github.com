@@ -3,12 +3,12 @@
 # ----------------------- #
 
 url: http://jakestoeffler.com
-title: jakestoeffler.com
+title: Jake Stoeffler
 subtitle: software and web development blog
 author: Jake Stoeffler
 simple_search: http://google.com/search
-description: Personal website of Jake Stoeffler, software developer and university student
-keywords: Jake Stoeffler, UW-Madison, University of Wisconsin Madison, Computer Science student, software developer intern
+description: Jake Stoeffler is a software developer currently pursuing a Computer Science degree at the University of Wisconsin - Madison.
+
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -94,7 +94,7 @@ disqus_short_name: jakestoeffler
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-33706953-1
 
 # Facebook Like
 facebook_like: true
