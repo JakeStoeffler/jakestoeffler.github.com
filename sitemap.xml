@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://JakeStoeffler.github.com/blog/2012/10/hello/</loc>
+        <lastmod>2012-10-10T02:28:39-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://JakeStoeffler.github.com/about/</loc>
+        <lastmod>2012-10-09T18:49:28-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://JakeStoeffler.github.com/archives/</loc>
+        <lastmod>2012-10-10T02:28:39-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://JakeStoeffler.github.com/blog/archives/</loc>
+        <lastmod>2012-10-10T02:28:39-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://JakeStoeffler.github.com/</loc>
+        <lastmod>2012-10-10T02:28:39-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://JakeStoeffler.github.com/resume/</loc>
+        <lastmod>2012-10-09T18:49:28-05:00</lastmod>
+    </url>
+</urlset>

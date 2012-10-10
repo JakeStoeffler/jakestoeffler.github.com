@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Life | Jake Stoeffler]]></title>
+  <link href="http://JakeStoeffler.github.com/blog/categories/life/atom.xml" rel="self"/>
+  <link href="http://JakeStoeffler.github.com/"/>
+  <updated>2012-10-10T02:40:24-05:00</updated>
+  <id>http://JakeStoeffler.github.com/</id>
+  <author>
+    <name><![CDATA[Jake Stoeffler]]></name>
+    <email><![CDATA[jake@jakestoeffler.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, World]]></title>
+    <link href="http://JakeStoeffler.github.com/blog/2012/10/hello/"/>
+    <updated>2012-10-09T22:08:00-05:00</updated>
+    <id>http://JakeStoeffler.github.com/blog/2012/10/hello</id>
+    <content type="html"><![CDATA[<p>Welcome to my first ever blog post!  Chances are that you know who I am if you're reading this.  You're probably a friend, co-worker, or family member.  If you don't know me, that's cool too!  You probably stumbled your way here via one of my profiles on <a href="http://www.linkedin.com/in/JakeStoeffler">LinkedIn</a>, <a href="https://github.com/JakeStoeffler">GitHub</a>, or <a href="http://stackexchange.com/users/1165812/jake-stoeffler?tab=accounts">Stack Exchange</a>.  If you knew me, you would know that I don't especially like talking about myself.  But since is my blog, I guess I'll just have to get used to it.  So <a href="http://www.youtube.com/watch?v=xSLlZh9yelk">here we go</a>.</p>
+
+<h3>About me</h3>
+
+<p>If you haven't noticed yet, I'm a bit of a geek.  I've chosen to embrace that fact rather than fight it.  After all, it's part of who I am, and as Dr. Seuss (<a href="http://en.wikiquote.org/wiki/Dr._Seuss#Misattributed">may or may not have</a>) put it,</p>
+
+<blockquote><p>Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.</p></blockquote>
+
+<p>It all started for me when I was seven years old.  I vividly remember walking into the living room on Christmas morning to see what Santa had brought.  A Quantex PC with an Intel Pentium III, 6 GB hard drive, and 128 MB of RAM?!?!  It looked just like <a href="http://www.flickr.com/photos/scob89/3226641369/sizes/l/in/photostream/">this</a>, except of course without the DVD drives.  It purred like a kitten on Windows 95.  I was blown away.  I simply couldn't handle the power of Netscape Navigator over a blazing 28.8 kbit/sec dial-up connection.  (Yes, Netscape.  Remember how awesome it was?  I must confess, I never was much of an IE guy.)</p>
+
+<!-- more -->
+
+
+<p>In first grade I found myself bored with school because I had already learned how to read at home with PC games like <a href="http://www.virtualapple.org/mecc-a153.html">Word Munchers</a> and <a href="http://www.amazon.com/Knowledge-Adventure-Reading-Blaster-Ages/dp/B000WS5PUK/ref=pd_cp_sw_1">Reading Blaster</a>.  So in my spare time, I built my first website, with a little help from Microsoft Frontpage and <a href="http://tripod.com">Tripod.com</a>.  (I've <a href="http://web.archive.org/web/19991009000826/http://www.tripod.com/">tried to dig up</a> my Tripod site from back in the day, but haven't had any luck.)</p>
+
+<p>From there I just kept learning more and more, teaching myself for the most part.  I like to think it's because I have a natural tendency to want to figure things out and understand how they really work.</p>
+
+<p>By eighth grade I had learned the basics of HTML and PHP, and I built a phpBB forum that my friends and I used to communicate during English class when we were "typing papers."  I ended up getting my internet privileges revoked because I used a proxy to get through the school's firewall.</p>
+
+<p>When I reached high school I was fortunate enough to take some computer science classes and earn college credit.  MIT was my dream school, but I was deferred and eventually rejected by them, so I decided to attend the <a href="http://wisc.edu">University of Wisconsin</a>, which is close to <a href="http://goo.gl/maps/NOGDu">home</a> but also <a href="http://www.news.wisc.edu/20966">a great school</a>.  I'm actually glad things happened that way.  I'm now in my third year of studying Computer Science with a minor in Math.  I've had a couple of great <a href="/resume">internship experiences</a> so far with <a href="http://www.avid.com/US/">Avid</a> and <a href="http://www-142.ibm.com/software/products/us/en/category/BPM-SOFTWARE">IBM</a>, and I hope to have another one in before I graduate one year from this December.</p>
+
+<p>Okay, enough nerdy stories.</p>
+
+<h3>Why?</h3>
+
+<p>Why am I starting this blog?  Well, I'm definitely not expecting this to go viral any time soon.  It would be cool if it did, but that's not at all the point.  At the moment, my goals for this are as follows.</p>
+
+<ol>
+<li><p><strong>Exercise</strong> my passion for technology.  Continue to learn more.  Keep myself (and hopefully those who read this blog) informed about the latest technologies.</p></li>
+<li><p><strong>Sharpen</strong> my technical communication skills, which are vital to success as a software engineer and really anyone these days.  I'm not yet where I'd like to be in this area, but I know I can get there with some practice.</p></li>
+<li><p><strong>Chronicle</strong> what I learn and what I'm able to accomplish as I go down this career path.  Maybe one day I'll look back at this and see how young and naive I was.  Maybe I'll just laugh.  Time will tell.</p></li>
+</ol>
+
+
+<h3>That's it</h3>
+
+<p>If you've made it this far, I want to thank you for reading my first blog post!  Come back for more soon!  I hope that whatever you may find on my blog is helpful or interesting in one way or another.  If you have questions, please feel free to <a href="/connect">get in touch</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
