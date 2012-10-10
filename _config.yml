@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://jakestoeffler.com
+url: http://JakeStoeffler.github.com
 title: Jake Stoeffler
 subtitle: software and web development blog
 author: Jake Stoeffler
@@ -59,10 +59,10 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user: jakestoeffler
+github_user: JakeStoeffler
 github_repo_count: 3
 github_show_profile_link: true
-github_skip_forks: true
+github_skip_forks: false
 
 # Twitter
 twitter_user: 
