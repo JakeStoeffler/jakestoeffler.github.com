@@ -44,7 +44,7 @@
 		<div class="container">
 			<form action="http://google.com/search" method="get">
 				<input type="text" name="q" results="0">
-				<input type="hidden" name="q" value="site:JakeStoeffler.github.com">
+				<input type="hidden" name="q" value="site:jakestoeffler.com">
 			</form>
 		</div>
 	</div>
@@ -70,7 +70,7 @@
 	</div>
 	<form class="search" action="http://google.com/search" method="get">
 		<input class="alignright" type="text" name="q" results="0">
-		<input type="hidden" name="q" value="site:JakeStoeffler.github.com">
+		<input type="hidden" name="q" value="site:jakestoeffler.com">
 	</form>
 </nav>
 
@@ -90,6 +90,9 @@
 <p><a href="https://www.facebook.com/events/466162720130325/">The hackathon</a> was sponsored by Microsoft and ran from 10am to 10pm on Saturday.  After a short introduction, the hacking began at around 11am and ended at 9pm to leave time for demos and prizes, which gave us about 10 hours of dedicated hacking time.  Although the hackathon was open to any kind of hacking, there was an emphasis on developing Windows 8 Metro (Windows Store) apps and Windows mobile apps.  Knowing this ahead of time, I installed Windows 8 and Visual Studio 2012 on a virtual machine on my Macbook.  Until a couple of days before the hackathon, I had never used Visual Studio and I had only used Windows 8 a couple of times.  I had also never developed an app in C# or C++, which left me the option of using JavaScript/HTML/CSS if I wanted to make a Windows Store app (which I did).  Fortunately, I&#8217;ve done quite a bit of hacking in JavaScript, so I knew the language would not be a barrier.  The most difficult part would be learning the WinJS framework and the code patterns specific to Metro apps.  I had done a little research prior to the hackathon, but not enough to really know what I was doing.</p>
 
 <p>Once the hackathon started, there was no time to waste trying to learn everything about Metro apps.  I knew that to be successful I would have to dive right in without being fully prepared (which isn&#8217;t something I do very often).  Before diving into code, however, I needed to have a solid app idea and figure out what it would do and what it would look like.  Luckily, I had taken some time before the hackathon to jot down a few app ideas.  The first idea was an app for <a href="http://stackexchange.com/">Stack Exchange</a>, which I&#8217;m slowly becoming more and more addicted to as I accumulate more reputation points.  I was sold on that idea until I found out that the Stack Exchange <a href="http://api.stackexchange.com/">APIs</a> don&#8217;t allow write access (except for comments, as of v2.1).  That made it pretty difficult to see how my app could possibly have an advantage over the website itself.  I had a couple of other ideas not worth mentioning because they were basically just improved versions of existing apps.  There was one other idea, though, which I ended up choosing because it was original and practical (and realistic given the time constraint of the hackathon).  <strong>Badger Buzz</strong>: an app for UW students to keep up with the latest campus news, events, and social media buzz.</p>
+
+<!-- more -->
+
 
 <p>If I could create a &#8220;wish list&#8221; of features for the app, I would include things like live updates, social media sharing, search, and notifications.  Unfortunately, I knew I wouldn&#8217;t have time to get that fancy, so I would have to focus on the core feature: viewing content.  First I brainstormed the types of content the app could include: news, sports, weather, events, Facebook feeds, Twitter feeds, photos, and videos.  Obviously it wouldn&#8217;t be realistic to implement all of these in a day, so I chose the ones I thought were most important: news, events, Twitter feeds, and photos.</p>
 
@@ -159,7 +162,7 @@
   
 
 
-<time datetime="2013-04-28T23:56:00-05:00" pubdate data-updated="true">Apr 28<span>th</span>, 2013</time></div>
+<time datetime="2013-04-28T23:56:00-04:00" pubdate data-updated="true">Apr 28<span>th</span>, 2013</time></div>
 	<div class="tags">
 
 
@@ -216,8 +219,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://JakeStoeffler.github.com/blog/2013/04/first-hackathon/';
-        var disqus_url = 'http://JakeStoeffler.github.com/blog/2013/04/first-hackathon/';
+        var disqus_identifier = 'http://jakestoeffler.com/blog/2013/04/first-hackathon/';
+        var disqus_url = 'http://jakestoeffler.com/blog/2013/04/first-hackathon/';
         var disqus_script = 'embed.js';
       
     (function () {

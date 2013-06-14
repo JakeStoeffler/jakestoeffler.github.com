@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Life | Jake Stoeffler]]></title>
-  <link href="http://JakeStoeffler.github.com/blog/categories/life/atom.xml" rel="self"/>
-  <link href="http://JakeStoeffler.github.com/"/>
-  <updated>2013-05-10T22:16:59-05:00</updated>
-  <id>http://JakeStoeffler.github.com/</id>
+  <link href="http://jakestoeffler.com/blog/categories/life/atom.xml" rel="self"/>
+  <link href="http://jakestoeffler.com/"/>
+  <updated>2013-06-14T01:10:33-04:00</updated>
+  <id>http://jakestoeffler.com/</id>
   <author>
     <name><![CDATA[Jake Stoeffler]]></name>
     <email><![CDATA[jake@jakestoeffler.com]]></email>
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[Hello, World]]></title>
-    <link href="http://JakeStoeffler.github.com/blog/2012/10/hello/"/>
-    <updated>2012-10-09T22:08:00-05:00</updated>
-    <id>http://JakeStoeffler.github.com/blog/2012/10/hello</id>
+    <link href="http://jakestoeffler.com/blog/2012/10/hello/"/>
+    <updated>2012-10-09T22:08:00-04:00</updated>
+    <id>http://jakestoeffler.com/blog/2012/10/hello</id>
     <content type="html"><![CDATA[<p>Welcome to my first ever blog post!  Chances are that you know who I am if you're reading this.  You're probably a friend, co-worker, or family member.  If you don't know me, that's cool too!  You probably stumbled your way here via one of my profiles on <a href="http://www.linkedin.com/in/JakeStoeffler">LinkedIn</a>, <a href="https://github.com/JakeStoeffler">GitHub</a>, or <a href="http://stackexchange.com/users/1165812/jake-stoeffler?tab=accounts">Stack Exchange</a>.  If you knew me, you would know that I don't especially like talking about myself.  But since is my blog, I guess I'll just have to get used to it.  So <a href="http://www.youtube.com/watch?v=xSLlZh9yelk">here we go</a>.</p>
 
-<h3>About me</h3>
+<h2>About me</h2>
 
 <p>If you haven't noticed yet, I'm a bit of a geek.  I've chosen to embrace that fact rather than fight it.  After all, it's part of who I am, and as Dr. Seuss (<a href="http://en.wikiquote.org/wiki/Dr._Seuss#Misattributed">may or may not have</a>) put it,</p>
 
@@ -41,7 +41,7 @@
 
 <p>Okay, enough nerdy stories.</p>
 
-<h3>Why?</h3>
+<h2>Why?</h2>
 
 <p>Why am I starting this blog?  Well, I'm definitely not expecting this to go viral any time soon.  It would be cool if it did, but that's not at all the point.  At the moment, my goals for this are as follows.</p>
 
@@ -52,7 +52,7 @@
 </ol>
 
 
-<h3>That's it</h3>
+<h2>That's it</h2>
 
 <p>If you've made it this far, I want to thank you for reading my first blog post!  Come back for more soon!  I hope that whatever you may find on my blog is helpful or interesting in one way or another.  If you have questions, please feel free to <a href="/connect">get in touch</a>.</p>
 ]]></content>
