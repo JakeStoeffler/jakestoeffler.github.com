@@ -94,7 +94,9 @@ article{
 				padding: 0 15px;
 			}
 			td{
-				text-align: center;
+				text-align: left;
+				padding: 0 5px;
+				border: 1px solid $color-gray03;
 			}
 			tr{
 				&:nth-of-type(2n){
