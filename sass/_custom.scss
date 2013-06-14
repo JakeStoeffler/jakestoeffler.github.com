@@ -22,9 +22,11 @@ body {
 	border: 0;
 	a {
 		color: $color-gray02;
+		@include text-shadow(rgba(black, 0.7) 1px 1px 6px);
 	}
 	h1 a {
 		color: $color-accent;
+		@include text-shadow(rgba(black, 0.7) 1px 1px 8px);
 		@include transition(color 0.3s);
 		&:hover{
 			color: $color-gray02;
@@ -41,8 +43,19 @@ body {
 	border: 0;
 }
 
-h1 {
+article h1.title {
 	color: $color-main;
+	a {
+		color: $color-main;
+		@include transition(color 0.3s);
+		&:hover{
+			color: $color-gray02;
+		}
+	}
+}
+
+h2 {
+	color: $color-accent;
 }
 
 article {

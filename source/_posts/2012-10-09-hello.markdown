@@ -8,7 +8,7 @@ categories: [Life, Random]
 
 Welcome to my first ever blog post!  Chances are that you know who I am if you're reading this.  You're probably a friend, co-worker, or family member.  If you don't know me, that's cool too!  You probably stumbled your way here via one of my profiles on [LinkedIn](http://www.linkedin.com/in/JakeStoeffler), [GitHub](https://github.com/JakeStoeffler), or [Stack Exchange](http://stackexchange.com/users/1165812/jake-stoeffler?tab=accounts).  If you knew me, you would know that I don't especially like talking about myself.  But since is my blog, I guess I'll just have to get used to it.  So [here we go](http://www.youtube.com/watch?v=xSLlZh9yelk).
 
-### About me ###
+## About me ##
 If you haven't noticed yet, I'm a bit of a geek.  I've chosen to embrace that fact rather than fight it.  After all, it's part of who I am, and as Dr. Seuss ([may or may not have](http://en.wikiquote.org/wiki/Dr._Seuss#Misattributed)) put it,
 
 > Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.
@@ -27,7 +27,7 @@ When I reached high school I was fortunate enough to take some computer science 
 
 Okay, enough nerdy stories.
 
-### Why? ###
+## Why? ##
 Why am I starting this blog?  Well, I'm definitely not expecting this to go viral any time soon.  It would be cool if it did, but that's not at all the point.  At the moment, my goals for this are as follows.
 
 1. __Exercise__ my passion for technology.  Continue to learn more.  Keep myself (and hopefully those who read this blog) informed about the latest technologies.
@@ -36,6 +36,6 @@ Why am I starting this blog?  Well, I'm definitely not expecting this to go vira
 
 3. __Chronicle__ what I learn and what I'm able to accomplish as I go down this career path.  Maybe one day I'll look back at this and see how young and naive I was.  Maybe I'll just laugh.  Time will tell.
 
-### That's it ###
+## That's it ##
 
 If you've made it this far, I want to thank you for reading my first blog post!  Come back for more soon!  I hope that whatever you may find on my blog is helpful or interesting in one way or another.  If you have questions, please feel free to [get in touch](/connect).
